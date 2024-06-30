@@ -1,0 +1,108 @@
+/* .form-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.form-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #45a049;
+} */
+
+
+/* FormStyles.css */
+
+.form-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333; /* Dark gray color for labels */
+}
+
+.form-input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.form-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50; /* Green background */
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #4fc955; /* Darker green on hover */
+}
+
+/* Example of adding color to form elements */
+.input-error {
+  border-color: #72803d; /* Red border for error state */
+}
+
+.success-message {
+  color: #4caf50; /* Green color for success message */
+}
+
+/* Example of colorful background */
+.form-container-colorful {
+  background-color: #f0f7f4; /* Light blue background */
+  border-color: #87c9bf; /* Light blue border color */
+}
+
+.form-button-colorful {
+  background-color: #b61406; /* Coral red button */
+}
+
+.form-button-colorful:hover {
+  background-color: #e96458; /* Darker coral red on hover */
+}
